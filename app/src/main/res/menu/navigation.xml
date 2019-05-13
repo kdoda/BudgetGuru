@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_statistics"
+        android:icon="@drawable/ic_trending_24dp"
+        android:title="@string/title_statistics" />
+
+    <item
+        android:id="@+id/navigation_incomes"
+        android:icon="@drawable/ic_arrow_downward_24dp"
+        android:title="@string/title_incomes" />
+
+    <item
+        android:id="@+id/navigation_expenses"
+        android:icon="@drawable/ic_arrow_upward_24dp"
+        android:title="@string/title_expenses" />
+
+    <item
+        android:id="@+id/navigation_goals"
+        android:icon="@drawable/ic_goals_24dp"
+        android:title="@string/title_goals"/>
+
+    <item
+        android:id="@+id/navigation_settings"
+        android:icon="@drawable/ic_settings_24dp"
+        android:title="@string/title_settings" />
+</menu>

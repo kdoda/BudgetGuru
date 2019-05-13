@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Budget Guru</string>
+    <string name="title_statistics">Statistics</string>
+    <string name="title_incomes">Incomes</string>
+    <string name="title_expenses">Expenses</string>
+    <string name="title_goals">Goals</string>
+    <string name="title_settings">Settings</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="save">Save</string>
+    <string name="change_password">Change Password</string>
+    <string name="update_email">Update Email</string>
+    <string name="resend_verification_email">Resend Verification Email</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="register">Register</string>
+    <string name="sign_in">Sign In</string>
+    <string name="password">Password</string>
+    <string name="budgeting_logo">Budgeting Guru Logo</string>
+    <string name="email_registration">Email Registration</string>
+    <string name="email">Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="employee_dashboard">Employee Dashboard</string>
+    <string name="cancel">CANCEL</string>
+    <string name="confirm">CONFIRM</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="sign_out">Sign out</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="current_password">Current Password</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_new_password">Confirm New Password</string>
+    <string name="expense_activity_header">Expenses</string>
+    <string name="not_empty">  can not be empty.</string>
+
+    <!-- Firebase Database Nodes -->
+    <string name="dbnode_expenses">expenses</string>
+    <string name="dbnode_incomes">incomes</string>
+    <string name="dbnode_users">users</string>
+
+    <string name="income_activity_header">Incomes</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <!-- Strings related to Transactions and Icomes -->
+    <string name="add_expense">Add New Expense</string>
+    <string name="add_income">Add New Income</string>
+    <string name="add">ADD</string>
+    <string name="vendor">Vendor</string>
+    <string name="payor">Payor</string>
+    <string name="category">Category</string>
+    <string name="product">Product</string>
+    <string name="date">Date</string>
+    <string name="amount">Amount</string>
+
+    <!-- Strings for the navbar -->
+    <string name="nav_text_goals">Goals</string>
+    <string name="nav_text_incomes">Incomes</string>
+    <string name="nav_text_expenses">Expenses</string>
+    <string name="nav_text_stats">Statistics</string>
+</resources>
